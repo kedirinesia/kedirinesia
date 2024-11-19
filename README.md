@@ -6,13 +6,13 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=kedirinesia&label=Profile%20views&color=0e75b6&style=flat" alt="kedirinesia" /> </p>
 
-- 🔭I’m currently preparing to learn everything that can improve my skill [LKS Nasional 2024 IT SOFTWARE SOLUTION FOR BUSSINESS](https://github.com/kedirinesia/grocerseeker-LKSN-2024.git)
+- 🔭I’m currently preparing to learn everything that can improve my skill  
 
-- 🌱 I’m currently learning **C# and Kotlin**
+- 🌱 I’m currently learning **C# and Kotlin** 
 
 - 👯 I’m looking to collaborate on [Chat APP FIREBASE](https://github.com/kedirinesia/FulungChatApp.git)
 
-- 🤝 I’m looking for help with [LKS KABUPATEN PATI (kayanya)](https://github.com/kedirinesia/SIstemInformasiAkademik.git)
+- 🤝 I’m looking for help with [LKS Nasional 2024 IT SOFTWARE SOLUTION FOR BUSSINESS](https://github.com/kedirinesia/grocerseeker-LKSN-2024.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/kedirinesia](https://github.com/kedirinesia)
 
