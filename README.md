@@ -8,15 +8,11 @@
 
 - 🔭I’m currently preparing to learn everything that can improve my skill  
 
-- 🌱 I’m currently learning **C# and Kotlin** 
-
-- 👯 I’m looking to collaborate on [Chat APP FIREBASE](https://github.com/kedirinesia/FulungChatApp.git)
-
-- 🤝 I’m looking for help with [LKS Nasional 2024 IT SOFTWARE SOLUTION FOR BUSSINESS](https://github.com/kedirinesia/grocerseeker-LKSN-2024.git)
+- 🌱 I’m currently learning **flutter and Kotlin** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/kedirinesia](https://github.com/kedirinesia)
 
-- 💬 Ask me about **C#, Kotlin, SQL**
+- 💬 Ask me about **C#, Kotlin, SQL, and flutterr**
 
 - 📫 How to reach me **alukardveve@gmail.com**
 
