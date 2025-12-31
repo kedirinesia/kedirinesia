@@ -73,6 +73,8 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 ## 📊 GitHub Stats
 
+![](https://nirzak-streak-stats.vercel.app/?user=kedirinesia&theme=dark&hide_border=false)<br/>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kedirinesia&show_icons=true&theme=tokyonight" />
 </p>
