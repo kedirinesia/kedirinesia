@@ -8,8 +8,7 @@
   Full-stack developer building <b>Mican.id</b> and mobile payment apps at <b>Payuni</b> 🇮🇩
 </h3>
 
-<img align="right" alt="Coding" width="380"
-src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+ 
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=kedirinesia&label=Profile%20views&color=0e75b6&style=flat" />
