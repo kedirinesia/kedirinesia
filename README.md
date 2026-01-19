@@ -19,7 +19,7 @@
 ##  What I’m Working On
 
 -  **Mican.id** — a full-stack platform for talent networks, marketplaces, and digital services  
--  **Payuni** — a mobile payment & PPOB ecosystem with multi-tenant app architecture  
+-  **Payuni** — a mobile app developer, payment & PPOB ecosystem with multi-tenant app architecture  
 -  Building **scalable backend services**, **Flutter apps**, and **automation tools**
 
 ---
