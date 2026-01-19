@@ -35,8 +35,9 @@
 
 -  **Remote Feature Toggle**  
   Safely control features during App Store & Play Store reviews
-- **Mican**
-  not an ordinary dating app
+
+-  **Mican**  
+  Not an ordinary dating apps
 
 ---
 
