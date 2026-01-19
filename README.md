@@ -21,7 +21,6 @@
 -  **Mican.id** — a full-stack platform for talent networks, marketplaces, and digital services  
 -  **Payuni** — a mobile payment & PPOB ecosystem with multi-tenant app architecture  
 -  Building **scalable backend services**, **Flutter apps**, and **automation tools**
--  Continuously improving **architecture, performance, and DX**
 
 ---
 
