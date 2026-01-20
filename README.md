@@ -24,7 +24,7 @@
 
 ---
 
-##  Key Projects
+## Projects
 
 -  **QRIS Parser (Dart)**  
   EMVCo-compliant QRIS parser with CRC validation for Flutter & backend services
