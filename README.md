@@ -101,11 +101,9 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-</p>
-
-## Coding Activity 
+</p
 
 <p align="center">
-  <img src="https://wakatime.com/badge/user/USERNAME.svg" />
+  <img src="https://wakatime.com/badge/user/kedirinesia.svg" />
 </p>
 
