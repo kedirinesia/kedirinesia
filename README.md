@@ -104,6 +104,7 @@
 </p
 
 <p align="center">
-  <img src="https://wakatime.com/badge/user/kedirinesia.svg" />
+  <img src="https://wakatime.com/badge/user/17177a46-d0ec-4294-b014-be5e921a6d70.svg" />
 </p>
+
 
