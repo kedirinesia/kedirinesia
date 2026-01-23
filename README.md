@@ -97,14 +97,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kedirinesia&layout=compact&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://wakatime.com/badge/user/17177a46-d0ec-4294-b014-be5e921a6d70.svg" />
+</p>
+
 ---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 </p
 
-<p align="center">
-  <img src="https://wakatime.com/badge/user/17177a46-d0ec-4294-b014-be5e921a6d70.svg" />
-</p>
+
+
 
 
