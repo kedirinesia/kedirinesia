@@ -101,6 +101,18 @@
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 18 January 2026 - To: 25 January 2026
+
+Total Time: 1 hr 26 mins
+
+Svelte       1 hr 11 mins    ████████████████████▓░░░░   82.16 %
+Dart         8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 %
+Bash         6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+```
+
 <!--END_SECTION:waka-->
 
 
