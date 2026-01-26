@@ -20,6 +20,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
           # ===== Custom Config =====
+          TARGET_FILE: README.md
           SECTION_NAME: waka
           TIME_RANGE: all_time
           LANG_COUNT: 8
