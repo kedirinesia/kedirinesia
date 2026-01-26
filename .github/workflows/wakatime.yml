@@ -11,10 +11,11 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true
-          BLOCKS: ░▒▓█
-          TIME_RANGE: last_7_days
-          SHOW_TIME: true
-          SHOW_TOTAL: true
-          LANG_COUNT: 8
+          api_key: ${{ secrets.WAKATIME_API_KEY }}
+          section_name: waka
+          time_range: last_7_days
+          lang_count: 8
+          show_title: true
+          show_time: true
+          show_total: true
+          block_style: "░▒▓█"
