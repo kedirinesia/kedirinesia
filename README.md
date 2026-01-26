@@ -8,40 +8,37 @@
   Full-stack developer building <b>Mican.id</b> and mobile payment apps at <b>Payuni</b> 🇮🇩
 </h3>
 
- 
-
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=kedirinesia&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-##  What I’m Working On
+## What I’m Working On
 
--  **Mican.id** — a full-stack platform for talent networks, marketplaces, and Business to Business 
--  **Payuni** — a mobile app developer, payment & PPOB ecosystem with multi-tenant app architecture  
--  Building **scalable backend services**, **Flutter apps**, and **automation tools**
+- **Mican.id** — a full-stack platform for talent networks, marketplaces, and Business to Business  
+- **Payuni** — a mobile app developer, payment & PPOB ecosystem with multi-tenant app architecture  
+- Building **scalable backend services**, **Flutter apps**, and **automation tools**
 
 ---
 
 ## Projects
 
--  **QRIS Parser (Dart)**  
+- **QRIS Parser (Dart)**  
   EMVCo-compliant QRIS parser with CRC validation for Flutter & backend services
 
--  **Flutter Multi-App Flavor**  
+- **Flutter Multi-App Flavor**  
   White-label Flutter architecture for multi-tenant mobile apps
 
--  **Remote Feature Toggle**  
+- **Remote Feature Toggle**  
   Safely control features during App Store & Play Store reviews
 
--  **Mican**  
+- **Mican**  
   Not an ordinary dating apps
 
 ---
 
-##  Tech Stack
-
+## Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
@@ -51,7 +48,8 @@
 </p>
 
 ---
-##  Backend & Services
+
+## Backend & Services
 
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -59,9 +57,9 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 </p>
 
-
 ---
-##  DevOps & Tooling
+
+## DevOps & Tooling
 
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -71,7 +69,7 @@
 
 ---
 
-##  Connect with Me
+## Connect with Me
 
 <p align="left">
   <a href="https://mican.id" target="_blank">
@@ -86,7 +84,8 @@
 </p>
 
 ---
-##  GitHub Stats
+
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kedirinesia&show_icons=true&theme=tokyonight" />
@@ -103,24 +102,4 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 January 2026 - To: 25 January 2026
-
-Total Time: 1 hr 26 mins
-
-Svelte       1 hr 11 mins    ████████████████████▓░░░░   82.16 %
-Dart         8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 %
-Bash         6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
-```
-
-<!--END_SECTION:waka-->
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-</p
-
-
-
-
-
+Loading WakaTime stats...
