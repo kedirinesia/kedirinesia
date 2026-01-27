@@ -92,7 +92,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kedirinesia&theme=tokyonight&hide_border=true" />
+  <img src="DenverCoder1/github-readme-streak-stats?user=kedirinesia&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
