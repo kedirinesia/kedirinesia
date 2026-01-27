@@ -100,9 +100,8 @@
 </p>
 
 
----
-## ⏱️ WakaTime Stats
+---## ⏱️ WakaTime Stats
 
-<!--START_SECTION:waka-->
-```txt
-Loading WakaTime stats...
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kedirinesia&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600" />
+</p>
