@@ -91,9 +91,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kedirinesia&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kedirinesia&theme=tokyonight&hide_border=true" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=kedirinesia&theme=tokyonight)](https://git.io/streak-stats)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kedirinesia&layout=compact&theme=tokyonight&hide_border=true" />
