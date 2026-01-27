@@ -99,9 +99,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kedirinesia&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-
----## ⏱️ WakaTime Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kedirinesia&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600" />
 </p>
