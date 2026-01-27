@@ -92,7 +92,7 @@
 </p>
 
  <p align="center"> 
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kedirinesia&theme=tokyonight" alt="GitHub Streak" /></a>
+ <a href="https://streak-stats.demolab.com?user=kedirinesia&theme=tokyonight"><img src="https://streak-stats.demolab.com?user=kedirinesia&theme=tokyonight" alt="GitHub Streak" /></a>
  </p>
 
 <p align="center">
