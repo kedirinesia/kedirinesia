@@ -100,5 +100,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kedirinesia&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600" />
+ <figure><embed src="https://wakatime.com/share/@kedirinesia/d23d9767-9c21-4329-bcb4-5f7e1b3c6472.svg"></embed></figure>
 </p>
