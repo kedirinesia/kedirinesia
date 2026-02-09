@@ -91,6 +91,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kedirinesia&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kedirinesia&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+</p>
+
+
  <p align="center"> 
  <a href="https://streak-stats.demolab.com?user=kedirinesia&theme=tokyonight"><img src="https://streak-stats.demolab.com?user=kedirinesia&theme=tokyonight" alt="GitHub Streak" /></a>
  </p>
