@@ -86,15 +86,25 @@
 ---
 
 ## GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kedirinesia&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<table>
+<tr>
+<td>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kedirinesia&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+</td>
+<td>
+
+<img src="https://streak-stats.demolab.com?user=kedirinesia&theme=tokyonight" />
+
+</td>
+</tr>
+</table>
 </p>
 
-
- <p align="center"> 
- <a href="https://streak-stats.demolab.com?user=kedirinesia&theme=tokyonight"><img src="https://streak-stats.demolab.com?user=kedirinesia&theme=tokyonight" alt="GitHub Streak" /></a>
- </p>
 
 <p align="center">
   <img src="https://wakatime.com/share/@kedirinesia/d23d9767-9c21-4329-bcb4-5f7e1b3c6472.svg"/>
