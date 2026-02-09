@@ -105,8 +105,6 @@
 </table>
 </p>
 
-
 <p align="center">
-  <img src="https://wakatime.com/share/@kedirinesia/d23d9767-9c21-4329-bcb4-5f7e1b3c6472.svg"/>
+  <img height="250" src="https://wakatime.com/share/@kedirinesia/d23d9767-9c21-4329-bcb4-5f7e1b3c6472.svg"/>
 </p>
-
